@@ -1,5 +1,8 @@
 # MonkeyDev
-
+[安装](https://github.com/AloneMonkey/MonkeyDev/wiki/%E5%AE%89%E8%A3%85)里面最重要的一步改成这个速度会变快：
+```
+sudo /bin/sh -c "$(curl -fsSL https://cdn.jsdelivr.net/gh/Panway/MonkeyDev@master/bin/md-install)"
+```
 A modified version of iOSOpenDev
 
 * easy to install
